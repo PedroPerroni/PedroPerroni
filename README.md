@@ -1,4 +1,4 @@
-# Olá! Eu sou o Pedro Raphael 👋
+# Olá! Eu sou o Pedro Perroni 👋
 
 Estudante de **Ciência de Dados e Negócios** na **ESPM** e entusiasta de **Machine Learning**, **Engenharia de Software** e **Estatística Aplicada**. Apaixonado por transformar dados brutos em decisões estratégicas e construir soluções tecnológicas end-to-end.
 
